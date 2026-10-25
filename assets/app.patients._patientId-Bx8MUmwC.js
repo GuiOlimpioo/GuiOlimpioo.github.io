@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DsKLSDJq.js";var t=e(),n=({error:e})=>(0,t.jsx)(`div`,{className:`rounded-2xl border border-destructive/30 bg-destructive/5 p-6 text-sm text-destructive`,children:e.message});export{n as errorComponent};

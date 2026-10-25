@@ -1,0 +1,1 @@
+import{t as e}from"./movement-assessment-DjPLhk5d.js";var t=e;export{t as component};
